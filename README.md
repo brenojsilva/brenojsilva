@@ -72,4 +72,4 @@ Uma plataforma mobile-first que organiza uma série de vídeos curtos por assunt
 
 Tem um problema que poderia virar uma ferramenta? Me conta.
 
-[**Portfólio ↗**](https://brenosilva.vercel.app) &nbsp;·&nbsp; [**devbrenosilva@gmail.com**](mailto:devbrenosilva@gmail.com)
+[**Portfólio ↗**](https://brenosilva.vercel.app) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/breno-silva-215442307) &nbsp;·&nbsp; [**devbrenosilva@gmail.com**](mailto:devbrenosilva@gmail.com)
